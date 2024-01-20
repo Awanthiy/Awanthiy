@@ -1,4 +1,4 @@
- # 💫 About Me:
+  # 💫 About Me:
 🔭 I’m currently working on my own project<br>🌱 I’m currently learning React , angular , JAVA SPRING<br>💬 Ask me about anything<br>⚡ Fun fact : Big Fan of the ⚡ emoji
 
 
