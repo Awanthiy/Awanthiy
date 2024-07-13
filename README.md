@@ -109,7 +109,7 @@ I am an undergraduate student passionate about UX/UI design 🎨 and front-end d
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table color="black"><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Awanthiy&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
