@@ -1,24 +1,41 @@
- # 💫 About Me:
-🔭 I’m currently working on my own project.<br>👯 I’m looking to collaborate on Git hub projects.<br>🌱 I’m currently learning C#, angular, React.<br>💬 Ask me about anything.<br>⚡ Big fan of this emoji.<br>😊 She/Her.
+<h1 align="center">Hi 👋, I'm Awanthi</h1>
+<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=awanthiy&label=Profile%20views&color=0e75b6&style=flat" alt="awanthiy" /> </p>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/awym) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/awanthi-malawanage-359434255/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/awanthiy) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/Awanti_Y_M) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Awanthi-Yashodara) 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=awanthiy" alt="awanthiy" /></a> </p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Awanthiy&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Awanthiy&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Awanthiy&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<p align="left"> <a href="https://twitter.com/awanthi malawanage" target="blank"><img src="https://img.shields.io/twitter/follow/awanthi malawanage?logo=twitter&style=for-the-badge" alt="awanthi malawanage" /></a> </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Awanthiy&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+- 🔭 I’m currently working on **My own projet**
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Awanthiy&limit=5&theme=radical&combine_all_yearly_contributions=true)
+- 🌱 I’m currently learning **Flutter.**
 
----
-[![](https://visitcount.itsvg.in/api?id=Awanthiy&icon=0&color=0)](https://visitcount.itsvg.in)
+- 👯 I’m looking to collaborate on **git hub project.**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🤝 I’m looking for help with **Anyone.**
+
+- 👨‍💻 All of my projects are available at [https://awanthiy.github.io/](https://awanthiy.github.io/)
+
+- 📝 I regularly write articles on [https://medium.com/@awanthiyashodarax](https://medium.com/@awanthiyashodarax)
+
+- 📫 How to reach me **Awanthiyashodara@gmail.com**
+
+- ⚡ Fun fact **Big fan of this emoji**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/awanthi-yashodara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="awanthi-yashodara" height="30" width="40" /></a>
+<a href="https://twitter.com/awanthi malawanage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="awanthi malawanage" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/awanthi malawanage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="awanthi malawanage" height="30" width="40" /></a>
+<a href="https://discord.gg/Awym" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Awym" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=awanthiy&show_icons=true&locale=en&layout=compact" alt="awanthiy" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=awanthiy&show_icons=true&locale=en" alt="awanthiy" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=awanthiy&" alt="awanthiy" /></p>
