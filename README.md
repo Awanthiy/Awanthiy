@@ -26,7 +26,9 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
   
-
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@Awym/30-nites-of-code)  
+  ![@Awym #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Awym)
 
 
 ### Glad to see you here!  
