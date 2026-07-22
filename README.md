@@ -131,9 +131,4 @@ I am an undergraduate student passionate about UX/UI design 🎨 and front-end d
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Awanthiy/Awanthiy/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+ 
