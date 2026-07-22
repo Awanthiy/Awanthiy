@@ -106,16 +106,23 @@ I am an undergraduate student passionate about UX/UI design 🎨 and front-end d
 <br/>  
 
 
-## Github Stats  
-<table color="black"><tr><td valign="top" width="50%">
+## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Awanthiy&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<table>
+<tr>
+<td width="50%">
 
-</td><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=Awanthiy&show_icons=true&count_private=true&hide_border=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 100%" />
+</td>
 
-</td></tr></table>  
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awanthiy&layout=compact&hide_border=true&theme=tokyonight"/>
+
+</td>
+</tr>
+</table>
 
 <br/>  
 
