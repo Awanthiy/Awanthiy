@@ -1,5 +1,7 @@
 ## Hey 👋, I'm Awanthi!  
-  
+<p align="center">
+  <img src="https://github.com/Awanthiy/Awanthiy/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 <a href="https://github.com/Awanthiy" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
