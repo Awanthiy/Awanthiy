@@ -1,7 +1,4 @@
 ## Hey 👋, I'm Awanthi!  
-<p align="center">
-  <img src="https://github.com/Awanthiy/Awanthiy/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 <a href="https://github.com/Awanthiy" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -136,3 +133,7 @@ I am an undergraduate student passionate about UX/UI design 🎨 and front-end d
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Awanthiy/Awanthiy/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
