@@ -29,7 +29,7 @@ Hey 👋, I'm Awanthi!
 
 Glad to see you here!
 
-I am an undergraduate student passionate about UX/UI design 🎨 and front-end development 💻. With a keen eye for detail 👁️ and a strong sense of aesthetics, I enjoy crafting intuitive and visually appealing interfaces. Over the years, I have worked on my numerous design projects 🛠️ and developed several small personal projects 🚀, continuously honing my skills and staying up-to-date with the latest industry trends. My goal is to create user-centric designs that enhance the digital experience 🌐.
+I'm an undergraduate student with a passion for UX/UI design and front-end development. I care about the details — spacing, motion, hierarchy — and enjoy turning that attention into interfaces that feel effortless to use. Outside of coursework, I build small personal projects to keep sharpening my craft and staying current with the field.
 
 <br/>
 
