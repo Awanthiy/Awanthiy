@@ -62,13 +62,17 @@ Tech Stack:
 <br/>
 Github Stats
 
-<table style="border:none;">
+ 
+
+<table style="border:none; border-collapse:collapse;">
   <tr>
-    <td style="border:none;" width="50%">
-      <img src="https://streak-stats.demolab.com/?user=Awanthiy&theme=dark&hide_border=false" width="100%"/>
+    <td style="border:none; padding:0;">
+      <img src="https://streak-stats.demolab.com/?user=Awanthiy&theme=dark&hide_border=false"
+           height="200"/>
     </td>
-    <td style="border:none;" width="50%">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Awanthiy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="100%"/>
+    <td style="border:none; padding:0;">
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Awanthiy&theme=dark&hide_border=false&layout=compact"
+           height="200"/>
     </td>
   </tr>
 </table>
