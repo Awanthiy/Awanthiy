@@ -62,33 +62,13 @@ Tech Stack:
 <br/>
 
 Github Stats
+< br><br>
+ 
+![](https://github-readme-stats.shion.dev/api?username=Awanthiy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Awanthiy&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Awanthiy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<table>
-<tr>
-<td width="50%">
+---
+[![](https://komarev.com/ghpvc/?username=Awanthiy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Awanthiy&show_icons=true&count_private=true&hide_border=true&theme=tokyonight"/>
-
-</td>
-
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awanthiy&layout=compact&hide_border=true&theme=tokyonight"/>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Awanthiy&hide_border=true&theme=tokyonight" alt="GitHub Streak Stats" />
-
-</div>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br />
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
