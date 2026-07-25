@@ -62,7 +62,7 @@ Tech Stack:
 <br/>
 Github Stats
 
- <br><br>
+ <br>
 
 <table style="border:none; border-collapse:collapse;">
   <tr>
