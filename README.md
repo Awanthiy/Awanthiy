@@ -36,14 +36,12 @@ I'm an undergraduate student with a passion for UX/UI design and front-end devel
 Rapidfire
 
 <table><tr><td valign="top" width="50%">
-
-🔭 I’m currently working on My own project ,Visit(https://awanthiy.github.io/)
-
-🌱 I’m currently learning Flutter
-
-❓ Ask me about anything related to JS and related technologies
-
-⚡ Fun fact: I keep night shift swithed on at all times
+ 
+💻 Full-Stack Developer  
+🎨 UI/UX Designer  
+🌱 Open Source Contributor
+🚀 Building my final-year research project using Flutter
+🌍 Contributing to open-source projects
 
 </td><td valign="top" width="50%">
 
