@@ -38,9 +38,13 @@ Rapidfire
 <table><tr><td valign="top" width="50%">
  
 💻 Full-Stack Developer  
-🎨 UI/UX Designer  
+
+🎨 UI/UX Designer 
+
 🌱 Open Source Contributor
+
 🚀 Building my final-year research project using Flutter
+
 🌍 Contributing to open-source projects
 
 </td><td valign="top" width="50%">
