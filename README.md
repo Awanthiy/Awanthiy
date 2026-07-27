@@ -36,6 +36,7 @@ I'm an undergraduate student with a passion for UX/UI design and front-end devel
 Rapidfire
 
 <table><tr><td valign="top" width="50%">
+
  
 💻 Full-Stack Developer  
 
