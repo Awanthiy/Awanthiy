@@ -1,21 +1,16 @@
 Hey 👋, I'm Awanthi!
 
-<a href="https://github.com/Awanthiy" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/ @Awanti_Y_M" target="_blank">
+ 
+<a href="[https://twitter.com/ @Awanti_Y_M](https://twitter.com/Awanti_Y_M)" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://dev.to/ " target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/ https://www.linkedin.com/in/awanthi-malawanage/" target="_blank">
+<a href="[https://linkedin.com/in/ https://www.linkedin.com/in/awanthi-malawanage/](https://www.linkedin.com/in/awanthi-malawanage/)" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://codepen.com/https://codepen.io/Awanthi-Yashodara" target="_blank">
+<a href="[https://codepen.com/https://codepen.io/Awanthi-Yashodara](https://codepen.io/Awanthi-Yashodara)" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/https://medium.com/@awanthiyashodarax" target="_blank">
+<a href="[https://medium.com/https://medium.com/@awanthiyashodarax](https://medium.com/@awanthiyashodarax)" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
 
