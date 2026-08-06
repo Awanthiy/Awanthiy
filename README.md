@@ -35,7 +35,12 @@ I'm an undergraduate student with a passion for UX/UI design and front-end devel
 
 </td></tr></table>
 
-<br/>
+## 🚀 Current Focus
+
+• Flutter
+• Node.js
+• Open Source
+• Front-End Development
 
 ## 🛠️ Languages And Tools
 
@@ -49,9 +54,3 @@ I'm an undergraduate student with a passion for UX/UI design and front-end devel
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Awanthiy&theme=tokyo-night&hide_border=true"/>
 </p>
 
-## 🚀 Current Focus
-
-• Flutter
-• Node.js
-• Open Source
-• Front-End Development
