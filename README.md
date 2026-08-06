@@ -56,7 +56,7 @@ Rapidfire
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,python,nodejs,js,react,laravel,flutter,dart,css,html,bootstrap,tailwind,php,sass,mysql,firebase,figma,git,github,ps&perline=10" />
 </p>
-## 🛠️ Languages And Tools
+🛠️ Languages And Tools
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=cs" />
