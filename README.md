@@ -42,11 +42,13 @@ I'm an undergraduate student with a passion for UX/UI design and front-end devel
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,python,nodejs,js,react,laravel,flutter,dart,css,html,bootstrap,tailwind,php,sass,mysql,firebase,figma,git,github,ps&perline=10" />
 </p>
+
 ## 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Awanthiy&theme=tokyo-night&hide_border=true"/>
 </p>
+
 ## 🚀 Current Focus
 
 • Flutter
