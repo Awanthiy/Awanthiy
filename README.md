@@ -27,7 +27,7 @@ I'm an undergraduate student with a passion for UX/UI design and front-end devel
 
 <br/>
 
-Rapidfire
+ 
 
 <table><tr><td valign="top" width="50%">
 
