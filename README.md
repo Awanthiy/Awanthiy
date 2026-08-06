@@ -15,25 +15,34 @@ I'm an undergraduate student with a passion for UX/UI design and front-end devel
 
 <br/>
 
- 
+<table>
+  <tr>
+    <td valign="middle" width="50%">
 
-<table><tr><td valign="top" width="50%">
+<ul>
+  <li>🎓 BSc (Hons) Software Engineering Undergraduate</li>
+  <li>💻 Full-Stack Developer</li>
+  <li>🎨 UI/UX Designer</li>
+  <li>🌱 Currently learning Flutter & Node.js</li>
+  <li>🚀 Building a Digital Tea Collection Management System</li>
+  <li>🌍 Open to Remote Opportunities</li>
+</ul>
 
- 
-- 🎓 BSc (Hons) Software Engineering Undergraduate
-- 💻 Full-Stack Developer
-- 🎨 UI/UX Designer
-- 🌱 Currently learning Flutter & Node.js
-- 🚀 Building a Digital Tea Collection Management System
-- 🌍 Open to Remote Opportunities
+    </td>
 
-</td><td valign="top" width="50%">
+    <td valign="middle" width="50%">
 
 <div align="center">
-<img src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif" align="center" style="width: 100%" />
+  <img
+    src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif"
+    width="85%"
+    alt="Coding Girl GIF"
+  />
 </div>
 
-</td></tr></table>
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Current Focus
 
