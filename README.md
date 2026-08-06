@@ -20,15 +20,12 @@ I'm an undergraduate student with a passion for UX/UI design and front-end devel
 <table><tr><td valign="top" width="50%">
 
  
-💻 Full-Stack Developer  
-
-🎨 UI/UX Designer 
-
-🌱 Open Source Contributor
-
-🚀 Building my final-year research project using Flutter
-
-🌍 Contributing to open-source projects
+- 🎓 BSc (Hons) Software Engineering Undergraduate
+- 💻 Full-Stack Developer
+- 🎨 UI/UX Designer
+- 🌱 Currently learning Flutter & Node.js
+- 🚀 Building a Digital Tea Collection Management System
+- 🌍 Open to Remote Opportunities
 
 </td><td valign="top" width="50%">
 
@@ -45,3 +42,14 @@ I'm an undergraduate student with a passion for UX/UI design and front-end devel
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,python,nodejs,js,react,laravel,flutter,dart,css,html,bootstrap,tailwind,php,sass,mysql,firebase,figma,git,github,ps&perline=10" />
 </p>
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Awanthiy&theme=tokyo-night&hide_border=true"/>
+</p>
+## 🚀 Current Focus
+
+• Flutter
+• Node.js
+• Open Source
+• Front-End Development
